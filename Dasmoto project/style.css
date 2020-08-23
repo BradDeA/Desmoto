@@ -1,0 +1,56 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding-bottom: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+span {
+  color: blue;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+p {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+h4 {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+.header {
+  background-image: url(images/pattern.jpeg);
+  padding: 0px;
+}
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+/* Brushes Section */
+.brushes h2 {
+  background-color: springgreen;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+/* Frame Section */
+.frames h2 {
+  background-color: lightcoral;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+/* Paint Section */
+.paint h2 {
+  background-color: skyblue;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
